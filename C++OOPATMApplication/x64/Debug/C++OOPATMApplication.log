@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\C++OOPATMApplication\C++OOPATMApplication\Source.cpp(326,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\C++OOPATMApplication\C++OOPATMApplication\Source.cpp(337,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\C++OOPATMApplication\C++OOPATMApplication\Source.cpp(427,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++OOPATMApplication.vcxproj -> C:\Users\user\source\repos\C++OOPATMApplication\x64\Debug\C++OOPATMApplication.exe
